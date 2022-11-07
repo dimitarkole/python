@@ -103,7 +103,7 @@
 #print(IsPalindrom("BoB"))
 #print(IsPalindrom("Palindromordnilap"))
 
-#print( CallTrapesoiteS(26,11,26,25))
+#print(CallTrapesoiteS(26,11,26,25))
 #CallTriangleS(20, 13.09, )
 
 text = input("Input text: ")
