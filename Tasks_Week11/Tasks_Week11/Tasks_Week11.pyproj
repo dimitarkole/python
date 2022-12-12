@@ -29,6 +29,7 @@
   <ItemGroup>
     <Content Include="Task1.py" />
     <Content Include="Task4.py" />
+    <Content Include="Task5.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
